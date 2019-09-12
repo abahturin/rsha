@@ -8,5 +8,5 @@ if [ $wordpress -eq 0 ]; then
 
 elif [ $wordpress -eq 1 ]; then
 	echo "wordpress on paigaldatud"
-	service wordpress status
+#	service wordpress status
 fi
